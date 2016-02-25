@@ -10,43 +10,43 @@
           "months": 3,
           "price": 149,
           "unit": "kr/månad",
-          "productId": "200247",
-          "campaignId": "10020"
+          "productId": "10022",
+          "campaignId": "11"
         },
         "six-months-monthly": {
           "months": 6,
           "price": 129,
           "unit": "kr/månad",
-          "productId": "200249",
-          "campaignId": "10020"
+          "productId": "10022",
+          "campaignId": "11"
         },
         "twelve-months-monthly": {
           "months": 12,
           "price": 79,
           "unit": "kr/månad",
-          "productId": "200251",
-          "campaignId": "10020"
+          "productId": "10024",
+          "campaignId": "11"
         },
         "three-months-upfront": {
           "months": 3,
           "price": 447,
           "unit": "kr",
-          "productId": "200248",
-          "campaignId": "10051"
+          "productId": "10022",
+          "campaignId": "11"
         },
         "six-months-upfront": {
           "months": 6,
           "price": 774,
           "unit": "kr",
-          "productId": "200250",
-          "campaignId": "10051"
+          "productId": "10022",
+          "campaignId": "11"
         },
         "twelve-months-upfront": {
           "months": 12,
           "price": 948,
           "unit": "kr",
-          "productId": "200252",
-          "campaignId": "10051"
+          "productId": "10024",
+          "campaignId": "11"
         },
       "special-offer": {
         "months": 100,
@@ -54,8 +54,69 @@
         "unit": "kr",
         "offerLength": 6,
         "lengthUnit": "månader",
-        "productId": "203243",
-        "campaignId": "11036"
+        "productId": "10022",
+        "campaignId": "11"
+      }
+      }
+    }
+  },
+  "localhost": {
+    "payment": {
+      "externalHost": "http://localhost.aftonbladet.se:9000",
+      "path": "purchase",
+      "productQuery": "product_id",
+      "campaignQuery": "campaign_id",
+      "offers": {
+        "three-months-monthly": {
+          "months": 3,
+          "price": 149,
+          "unit": "kr/månad",
+          "productId": "10022",
+          "campaignId": "11"
+        },
+        "six-months-monthly": {
+          "months": 6,
+          "price": 129,
+          "unit": "kr/månad",
+          "productId": "10022",
+          "campaignId": "11"
+        },
+        "twelve-months-monthly": {
+          "months": 12,
+          "price": 79,
+          "unit": "kr/månad",
+          "productId": "10024",
+          "campaignId": "11"
+        },
+        "three-months-upfront": {
+          "months": 3,
+          "price": 447,
+          "unit": "kr",
+          "productId": "10022",
+          "campaignId": "11"
+        },
+        "six-months-upfront": {
+          "months": 6,
+          "price": 774,
+          "unit": "kr",
+          "productId": "10022",
+          "campaignId": "11"
+        },
+        "twelve-months-upfront": {
+          "months": 12,
+          "price": 948,
+          "unit": "kr",
+          "productId": "10024",
+          "campaignId": "11"
+        },
+      "special-offer": {
+        "months": 100,
+        "price": 398,
+        "unit": "kr",
+        "offerLength": 6,
+        "lengthUnit": "månader",
+        "productId": "10022",
+        "campaignId": "11"
       }
       }
     }
