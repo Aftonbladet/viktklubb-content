@@ -94,9 +94,7 @@
       "containers": [
         "bmi-calculator",
         "bmi-range-display",
-        "bmi-result-cta",
-        "all-features",
-        "grid-cta"
+        "bmi-result-cta"
       ]
     },
     "memberships": {
