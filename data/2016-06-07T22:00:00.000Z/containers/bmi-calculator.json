@@ -23,7 +23,7 @@
       }
     },
     {
-      "type": "bmi-calculator",
+      "type": "bmi-calc",
       "order": "2",
       "props": {
         "weight": {
@@ -44,7 +44,13 @@
           "minValue": 50,
           "cutoffValue": 110
         },
-        "cta": "Testa nu"
+        "userQuote": "Jag trodde inte det skulle gå så lätt, man kan faktiskt äta mer än man tror",
+        "userName": "Madeleine Nylander, medlem -20kg",
+        "disclaimer": "*Viktminskning är individuellt och vi kan därför inte lämna några garantier för hur mycket eller hur snabbt du kommer gå ner i vikt. För att bli medlem i Viktklubb får du inte ha ett BMI under 20.",
+        "bmiWarning": "*För att gå med i Viktklubb måste du ha ett BMI på minst 20. Ett rekommenderat BMI ligger mellan 20-25.",
+        "gainWarning": "*Viktklubbs program är framtagna för dig som behöver gå ner eller hålla vikten. Om du tränar hårt och satsar på att öka din muskelmassa mycket snarare än att omfördela fett och muskler, eller om du bara vill gå upp lite i vikt, är Viktklubb troligen inte rätt verktyg för dig i dagsläget.",
+        "cta": "Jag vill nå mitt mål!",
+        "ctaUrl": "/kampanj/blimedlem"
       }
     }
   ]
