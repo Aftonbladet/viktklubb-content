@@ -60,9 +60,7 @@
         "ettan-banner",
         "split-ad",
         "vk-features",
-        "bmi-calculator",
-        "bmi-range-display",
-        "bmi-result-cta"
+        "bmi-calculator"
       ]
     },
     "vk-content": {
@@ -74,15 +72,6 @@
         "experts"
       ]
     },
-    "bmi": {
-      "containers": [
-        "bmi-calculator",
-        "bmi-range-display",
-        "bmi-result-cta",
-        "bmi-case-match",
-        "all-features"
-      ]
-    },
 
     "article-top-ad": {
       "containers": [
@@ -91,9 +80,7 @@
 
     "article-bottom-ad": {
       "containers": [
-        "bmi-calculator",
-        "bmi-range-display",
-        "bmi-result-cta"
+        "bmi-calculator"
       ]
     },
     "memberships": {
