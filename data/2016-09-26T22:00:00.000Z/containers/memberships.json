@@ -23,14 +23,14 @@
         "hideTypeSwitch": true,
         "monthly": [
           {
+            "sticker": "Populärast!",
+            "cta": "Välj",
+            "offer": "six-months-monthly"
+          },
+          {
             "sticker": "Billigast!",
             "cta": "Välj",
             "offer": "twelve-months-monthly"
-          },
-          {
-            "sticker": "Kickstart!",
-            "cta": "Välj",
-            "offer": "three-months-monthly"
           }
         ],
         "total": [
@@ -51,7 +51,7 @@
           }
         ],
         "special": {
-          "sticker": "Populärast!",
+          "sticker": "Kickstart!",
           "cta": "Välj",
           "offer": "special-offer",
           "fontSize": "4",
@@ -84,9 +84,9 @@
       "order": 2,
       "props": {
         "items": [
-          "Personlig plan för att nå Din målvikt",
-          "Logga allt du äter och din träning — vi håller koll på resten",
-          "Viktminskningsmetod utvecklad i samarbete med Karolinska Institutet"
+          "Viktminskningsplan anpassad för Dig",
+          "Logga det du äter och din träning — vi håller koll på resten",
+          "Tjänsten är utvecklad i samarbete med Karolinska Institutet"
         ]
       }
     },
