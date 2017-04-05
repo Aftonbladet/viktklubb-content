@@ -8,9 +8,7 @@
     {
       "type": "cta-element",
       "order": "0",
-      "props": {
-        "label": "Håll vikten med oss!"
-      }
+      "props": {}
     }
   ]
 }
