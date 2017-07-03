@@ -9,36 +9,44 @@
       "order": "0",
       "props": {
         "header": "Vad är ditt mål?",
-        "leadText": "Vad vill du göra för att förbättra din hälsa och må bättre? ",
+        "lead": "Vad vill du göra för att förbättra din hälsa och må bättre? ",
         "bulletList": [
           "Mer än 1000 hälsosamma recept",
           "Experter inom mat, motion & motivation",
           "Logga enkelt mat och träning i vår app"
         ],
-        "list": [
+        "itemsList": [
           {
             "header": "Äta hälsosammare",
-            "resultHeader": "Viktklubb kan hjälpa dig att nå ditt mål att äta bättre! ",
-            "resultText": "Du får full koll på näringsinnehållet och färdiga menyer med hälsosamma recept",
-            "backgroundImage": "https://images.contentful.com/8s9lban1fwf8/6bEjg0hLB6Ky2a0YIuia6w/e7720e78167922896328c960ea95725b/EatHealthy.jpg"
+            "backgroundImage": "https://images.contentful.com/8s9lban1fwf8/6bEjg0hLB6Ky2a0YIuia6w/e7720e78167922896328c960ea95725b/EatHealthy.jpg",
+            "result" : {
+              "header": "Viktklubb kan hjälpa dig att nå ditt mål att äta bättre!",
+              "lead": "Du får full koll på näringsinnehållet och färdiga menyer med hälsosamma recept"
+            }
           },
           {
             "header": "Går ner i vikt",
-            "resultHeader": "Viktklubb kan hjälpa dig att nå ditt mål och gå ner vikt! ",
-            "resultText": "Du får ett personligt viktminskningsprogram och följer enkelt dina framsteg i vår app",
-            "backgroundImage": "https://images.contentful.com/8s9lban1fwf8/1WF5w9mUuMCO8M2kaoGuQO/f06644fa97bab2ca2fb806b554cbe19f/LoseWeight.jpg"
+            "backgroundImage": "https://images.contentful.com/8s9lban1fwf8/1WF5w9mUuMCO8M2kaoGuQO/f06644fa97bab2ca2fb806b554cbe19f/LoseWeight.jpg",
+            "result" : {
+              "header": "Viktklubb kan hjälpa dig att nå ditt mål och gå ner vikt!",
+              "lead": "Du får ett personligt viktminskningsprogram och följer enkelt dina framsteg i vår app"
+            }
           },
           {
             "header": "Träna inför ett lopp",
-            "resultHeader": "Viktklubb kan hjälpa dig att nå ditt träningsmål! ",
-            "resultText": "Vi har en rad olika träningsprogram och ger dig en helhetsbild av både mat och träning",
-            "backgroundImage": "https://images.contentful.com/8s9lban1fwf8/4EtErb1Ie4YOOGsokWImUS/3b0a05e3308f682570a268bf052d0ef7/RunRace.jpg"
+            "backgroundImage": "https://images.contentful.com/8s9lban1fwf8/4EtErb1Ie4YOOGsokWImUS/3b0a05e3308f682570a268bf052d0ef7/RunRace.jpg",
+            "result" : {
+              "header": "Viktklubb kan hjälpa dig att nå ditt träningsmål!",
+              "lead": "Vi har en rad olika träningsprogram och ger dig en helhetsbild av både mat och träning"
+            }
           },
           {
             "header": "Hålla vikten",
-            "resultHeader": "Viktklubb kan hjälpa dig att hålla vikten genom hälsosam mat och total koll på ditt kaloriintag",
-            "resultText": "Du får full koll på ditt kaloriintag utifrån ditt eget personliga energibehov",
-            "backgroundImage": "https://images.contentful.com/8s9lban1fwf8/2cMjMwaIDuyEyayAAyI42y/bcc96c4deeb2c25b03261c73c2337f73/KeepWeight.jpg"
+            "backgroundImage": "https://images.contentful.com/8s9lban1fwf8/2cMjMwaIDuyEyayAAyI42y/bcc96c4deeb2c25b03261c73c2337f73/KeepWeight.jpg",
+            "result" : {
+              "header": "Viktklubb kan hjälpa dig att hålla vikten genom hälsosam mat och total koll på ditt kaloriintag",
+              "lead": "Du får full koll på ditt kaloriintag utifrån ditt eget personliga energibehov"
+            }
           }
         ]
       }
