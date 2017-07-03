@@ -96,7 +96,8 @@
     },
     "article-bmi": {
       "containers": [
-        "bmi-calc"
+        "bmi-calc",
+        "quiz"
       ]
     },
     "article-pitch": {

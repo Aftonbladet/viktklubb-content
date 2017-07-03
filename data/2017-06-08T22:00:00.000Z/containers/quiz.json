@@ -1,0 +1,31 @@
+{
+  "props": {},
+  "items": [
+    {
+      "type": "quiz",
+      "order": "0",
+      "props": {
+        "header": "Vad är ditt mål?",
+        "leadText": "Vad vill du göra för att förbättra din hälsa och må bättre? ",
+        "list": [
+          {
+            "header": "Äta hälsosammare",
+            "backgroundImage": "https://images.contentful.com/8s9lban1fwf8/6bEjg0hLB6Ky2a0YIuia6w/e7720e78167922896328c960ea95725b/EatHealthy.jpg"
+          },
+          {
+            "header": "Går ner i vikt",
+            "backgroundImage": "https://images.contentful.com/8s9lban1fwf8/1WF5w9mUuMCO8M2kaoGuQO/f06644fa97bab2ca2fb806b554cbe19f/LoseWeight.jpg"
+          },
+          {
+            "header": "Träna inför ett lopp",
+            "backgroundImage": "https://images.contentful.com/8s9lban1fwf8/4EtErb1Ie4YOOGsokWImUS/3b0a05e3308f682570a268bf052d0ef7/RunRace.jpg"
+          },
+          {
+            "header": "Hålla vikten",
+            "backgroundImage": "https://images.contentful.com/8s9lban1fwf8/2cMjMwaIDuyEyayAAyI42y/bcc96c4deeb2c25b03261c73c2337f73/KeepWeight.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
