@@ -1,5 +1,8 @@
 {
-  "props": {},
+  "props": {
+    "shadowBox": false,
+    "margin": false
+  },
   "items": [
     {
       "type": "quiz",
