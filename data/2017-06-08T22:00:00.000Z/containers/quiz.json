@@ -8,7 +8,7 @@
       "type": "quiz",
       "order": "0",
       "props": {
-        "header": "Vad är <span class=\"text-red\">ditt</span> mål?",
+        "header": "Vad är ditt mål?",
         "lead": "Vad vill du göra för att förbättra din hälsa och må bättre? ",
         "bulletList": [
           "Mer än 1000 hälsosamma recept",
