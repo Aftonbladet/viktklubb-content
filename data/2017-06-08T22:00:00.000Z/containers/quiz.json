@@ -19,7 +19,7 @@
           {
             "header": "Äta hälsosammare",
             "backgroundImage": "https://images.contentful.com/8s9lban1fwf8/6bEjg0hLB6Ky2a0YIuia6w/e7720e78167922896328c960ea95725b/EatHealthy.jpg",
-            "result" : {
+            "details" : {
               "header": "Viktklubb kan hjälpa dig att nå ditt mål att äta bättre!",
               "lead": "Du får full koll på näringsinnehållet och färdiga menyer med hälsosamma recept"
             }
@@ -27,7 +27,7 @@
           {
             "header": "Går ner i vikt",
             "backgroundImage": "https://images.contentful.com/8s9lban1fwf8/1WF5w9mUuMCO8M2kaoGuQO/f06644fa97bab2ca2fb806b554cbe19f/LoseWeight.jpg",
-            "result" : {
+            "details" : {
               "header": "Viktklubb kan hjälpa dig att nå ditt mål och gå ner vikt!",
               "lead": "Du får ett personligt viktminskningsprogram och följer enkelt dina framsteg i vår app"
             }
@@ -35,7 +35,7 @@
           {
             "header": "Träna inför ett lopp",
             "backgroundImage": "https://images.contentful.com/8s9lban1fwf8/4EtErb1Ie4YOOGsokWImUS/3b0a05e3308f682570a268bf052d0ef7/RunRace.jpg",
-            "result" : {
+            "details" : {
               "header": "Viktklubb kan hjälpa dig att nå ditt träningsmål!",
               "lead": "Vi har en rad olika träningsprogram och ger dig en helhetsbild av både mat och träning"
             }
@@ -43,7 +43,7 @@
           {
             "header": "Hålla vikten",
             "backgroundImage": "https://images.contentful.com/8s9lban1fwf8/2cMjMwaIDuyEyayAAyI42y/bcc96c4deeb2c25b03261c73c2337f73/KeepWeight.jpg",
-            "result" : {
+            "details" : {
               "header": "Viktklubb kan hjälpa dig att hålla vikten genom hälsosam mat och total koll på ditt kaloriintag",
               "lead": "Du får full koll på ditt kaloriintag utifrån ditt eget personliga energibehov"
             }
