@@ -10,6 +10,7 @@
       "props": {
         "header": "Vad är ditt mål?",
         "lead": "Vad vill du göra för att förbättra din hälsa och må bättre? ",
+        "ctaLink": "/kampanj/blimedlem",
         "bulletList": [
           "Mer än 1000 hälsosamma recept",
           "Experter inom mat, motion & motivation",
