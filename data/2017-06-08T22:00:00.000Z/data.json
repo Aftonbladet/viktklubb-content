@@ -96,7 +96,11 @@
     },
     "article-bmi": {
       "containers": [
-        "bmi-calc",
+        "bmi-calc"
+      ]
+    },
+    "article-test": {
+      "containers": [
         "quiz"
       ]
     },
