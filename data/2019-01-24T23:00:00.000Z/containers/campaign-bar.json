@@ -11,7 +11,7 @@
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Från 129 kr/månad",
+        "label": "JUST NU! 50% rabatt!",
         "strength": 2,
         "align": "center"
       }
@@ -27,7 +27,7 @@
       "type": "paragraf",
       "order": "2",
       "props": {
-        "text": "JUST NU! Få en matvåg på köpet (värde 149 kr)*"
+        "text": "6 månader för halva priset (ord. pris 149 kr/mån)*"
       }
     }
   ]

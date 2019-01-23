@@ -11,8 +11,8 @@
       "type": "header",
       "order": "0",
       "props": {
-        "label": "Bli medlem från 129 kr/månad",
-        "sublabel": "JUST NU! Få en matvåg på köpet (värde 149 kr)*",
+        "label": "JUST NU! 50% rabatt!",
+        "sublabel": "6 månader för halva priset (ord. pris 149 kr/mån)*",
         "strength": 1,
         "align": "center"
       }
@@ -21,7 +21,7 @@
       "type": "cta-element",
       "order": "1",
       "props": {
-        "label": "Välj medlemskap"
+        "label": "Bli medlem nu!"
       }
     }
   ]

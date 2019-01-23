@@ -21,15 +21,15 @@
       "order": 1,
       "props": {
         "special": {
-          "sticker": "Populärast!",
+          "sticker": "ERBJUDANDE: 50% rabatt!",
           "cta": "Välj",
           "offer": "special-offer",
           "additionalOffer": {
             "backgroundImage": {
-              "small": "https://cdn-7-yams.schibsted.com/api/v1/production/images/3b2c8b5ff13186953d8ead1c8395d2f7a989716e?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc1MCwiaGVpZ2h0Ijo0MzcsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC8zYjJjOGI1ZmYxMzE4Njk1M2Q4ZWFkMWM4Mzk1ZDJmN2E5ODk3MTZlIn0.I4hYAcmDSr1Rp0An8w0HC2BOSCQ4scymOMk9aOiUuG4mykMoFQ2v0O17-fCVbY1T4wxiN4TTtLti2yuvXPTxltCu5q2nQbEFlmRXmkzaDOdZfNys0kxtrMCMhYmSbYphu8f1qJhIc9Xc0R5pSTQKGPLgDhoCV_DJgwXKm3f9G9NFsBFMOQstO71nuVUUM6c6rh_TBLwOHhjcMy8khWzmNq2ICp2JRY5l6-omUgmshKtOiIGlthcN6gMWod0ihqIVYX9PMUM_m2gNDLvU59HqSJqMLO2-W75otYNQYmz3Mmjbt-fL5XOUOA6odjMJN6kM_G0tr9JNLL68UUmLeJck2Q&AccessKeyId=d6f78ac930ac551d",
-              "large": "https://cdn-4-yams.schibsted.com/api/v1/production/images/7910210e3b5ec2f3704cfc14694a481f6188f87e?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjE1MDAsImhlaWdodCI6ODc1LCJmaXQiOnsidHlwZSI6ImNyb3AifSwidXBzY2FsZSI6ZmFsc2V9fV19fSwicnFzIjoiR0VUXFxcL3Byb2R1Y3Rpb25cL2ltYWdlc1wvNzkxMDIxMGUzYjVlYzJmMzcwNGNmYzE0Njk0YTQ4MWY2MTg4Zjg3ZSJ9.Sxqv_NmFzsTfrqjA-3H724xtaZZrpsC5Gu97WcttcPAKKIOtg6gkENioNQ9KUmNBzhAjW2uU9oOiRV9gttoNLWg-6sBTLwb82CljFbTus7Xaf7PtRaiokosCuYWKjRi3ahuUV6DkjMg6I-FTFB3QosOMhLNuqQYEQUbBF6IIolm8Y6YQbuElfYP6QveXku3vQ0N-JZ0VtdMkTgQjORCU2P64ZXphtJQw5z35ANOmUuHAksk2-Fk-oXFqOnSOy8g2gb0449xIV88_F31rhC7uUi8YuwilTRyKSuZKtgEgj8PG0L_6KbBbojk_aNgmsoflybrf3aD6QMwRcKyB2ojm8g&AccessKeyId=d6f78ac930ac551d"
+              "small": "https://cdn-3-yams.schibsted.com/api/v1/production/images/dc27249c021db6f8e066a8dfac30e768b4a34ad6?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc1MCwiaGVpZ2h0Ijo0MzcsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9kYzI3MjQ5YzAyMWRiNmY4ZTA2NmE4ZGZhYzMwZTc2OGI0YTM0YWQ2In0.CcL0zw1-zqqPYOTvLg9Xg4rv8wXMYy7GcGyGFfaBJqFKro2VlI-ftIda1eyy7lb4GEiyGq-TtAu8ohUOSsVQcb5JhWKXg5cHWCGFMXO-xGp8PjcoCQMaZUCONwOOxh3KDb7ZzeQKpiYH65_2SGR4uuiGRSDv7QjhQuyFhPAprsagRxNP4Q7DCHBPddWYaH7RySfzzBAVVb3YJxTBHQoe7q19fc_AwulqDSP5ynN2KHeIvvqnjald-FKK8wb6r1zlbwOUZ2Tdrwxg9mVr7ksckl6UYDz9sCGADBWGzGpkayDHAzDYnHDbcJUWFqQezhVcPPE7QRGAoLnzN1F1ZQQ6cg&AccessKeyId=d6f78ac930ac551d",
+              "large": "https://cdn-3-yams.schibsted.com/api/v1/production/images/dc27249c021db6f8e066a8dfac30e768b4a34ad6?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc1MCwiaGVpZ2h0Ijo0MzcsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9kYzI3MjQ5YzAyMWRiNmY4ZTA2NmE4ZGZhYzMwZTc2OGI0YTM0YWQ2In0.CcL0zw1-zqqPYOTvLg9Xg4rv8wXMYy7GcGyGFfaBJqFKro2VlI-ftIda1eyy7lb4GEiyGq-TtAu8ohUOSsVQcb5JhWKXg5cHWCGFMXO-xGp8PjcoCQMaZUCONwOOxh3KDb7ZzeQKpiYH65_2SGR4uuiGRSDv7QjhQuyFhPAprsagRxNP4Q7DCHBPddWYaH7RySfzzBAVVb3YJxTBHQoe7q19fc_AwulqDSP5ynN2KHeIvvqnjald-FKK8wb6r1zlbwOUZ2Tdrwxg9mVr7ksckl6UYDz9sCGADBWGzGpkayDHAzDYnHDbcJUWFqQezhVcPPE7QRGAoLnzN1F1ZQQ6cg&AccessKeyId=d6f78ac930ac551d"
             },
-            "label": "Få en matvåg på köpet (värde 149 kr)*"
+            "label": "Halva priset! (ord. pris 149 kr/mån)*"
           }
         },
         "monthly": [
@@ -39,16 +39,9 @@
             "offer": "three-months-monthly"
           },
           {
-            "sticker": "Billigast!",
+            "sticker": "Vi rekommenderar!",
             "cta": "Välj",
-            "offer": "twelve-months-monthly",
-            "additionalOffer": {
-              "backgroundImage": {
-                "small": "https://cdn-7-yams.schibsted.com/api/v1/production/images/3b2c8b5ff13186953d8ead1c8395d2f7a989716e?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc1MCwiaGVpZ2h0Ijo0MzcsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC8zYjJjOGI1ZmYxMzE4Njk1M2Q4ZWFkMWM4Mzk1ZDJmN2E5ODk3MTZlIn0.I4hYAcmDSr1Rp0An8w0HC2BOSCQ4scymOMk9aOiUuG4mykMoFQ2v0O17-fCVbY1T4wxiN4TTtLti2yuvXPTxltCu5q2nQbEFlmRXmkzaDOdZfNys0kxtrMCMhYmSbYphu8f1qJhIc9Xc0R5pSTQKGPLgDhoCV_DJgwXKm3f9G9NFsBFMOQstO71nuVUUM6c6rh_TBLwOHhjcMy8khWzmNq2ICp2JRY5l6-omUgmshKtOiIGlthcN6gMWod0ihqIVYX9PMUM_m2gNDLvU59HqSJqMLO2-W75otYNQYmz3Mmjbt-fL5XOUOA6odjMJN6kM_G0tr9JNLL68UUmLeJck2Q&AccessKeyId=d6f78ac930ac551d",
-                "large": "https://cdn-4-yams.schibsted.com/api/v1/production/images/7910210e3b5ec2f3704cfc14694a481f6188f87e?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjE1MDAsImhlaWdodCI6ODc1LCJmaXQiOnsidHlwZSI6ImNyb3AifSwidXBzY2FsZSI6ZmFsc2V9fV19fSwicnFzIjoiR0VUXFxcL3Byb2R1Y3Rpb25cL2ltYWdlc1wvNzkxMDIxMGUzYjVlYzJmMzcwNGNmYzE0Njk0YTQ4MWY2MTg4Zjg3ZSJ9.Sxqv_NmFzsTfrqjA-3H724xtaZZrpsC5Gu97WcttcPAKKIOtg6gkENioNQ9KUmNBzhAjW2uU9oOiRV9gttoNLWg-6sBTLwb82CljFbTus7Xaf7PtRaiokosCuYWKjRi3ahuUV6DkjMg6I-FTFB3QosOMhLNuqQYEQUbBF6IIolm8Y6YQbuElfYP6QveXku3vQ0N-JZ0VtdMkTgQjORCU2P64ZXphtJQw5z35ANOmUuHAksk2-Fk-oXFqOnSOy8g2gb0449xIV88_F31rhC7uUi8YuwilTRyKSuZKtgEgj8PG0L_6KbBbojk_aNgmsoflybrf3aD6QMwRcKyB2ojm8g&AccessKeyId=d6f78ac930ac551d"
-              },
-              "label": "Få en matvåg på köpet (värde 149 kr)*"
-            }
+            "offer": "twelve-months-monthly"
           }
         ]
       }
@@ -81,7 +74,7 @@
       "type": "htmlParagraf",
       "order": 5,
       "props": {
-        "text": "*Erbjudandet gäller vid tecknande av medlemskap på minst 6 månader och så långt lagret räcker, dock längst t.o.m. 28 februari 2019. Läs mer på <a href='http://bit.ly/villkormatvåg'>bit.ly/villkormatvåg</a>",
+        "text": "*Erbjudandet gäller endast vid tecknande av 6 månaders medlemskap t.o.m. 31 januari 2019",
         "cssClass": "memberships__offer-disclaimer"
       }
     }

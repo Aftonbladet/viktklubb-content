@@ -27,17 +27,17 @@
         "unit": "månad",
         "productId": "203274",
         "campaignId": "11891",
-        "zuoraId": "VK-12MTP-E-19"
+        "zuoraId": "VK-12MT-E-19"
       },
       "special-offer": {
         "months": 6,
-        "price": 149,
+        "price": 74.5,
         "unit": "månad",
         "productId": "203216",
         "campaignId": "11891",
         "offerLength": 6,
         "lengthUnit": "månader",
-        "zuoraId": "VK-6MTP-E-19"
+        "zuoraId": "VK-6MT50-E-19"
       }
     }
   },
