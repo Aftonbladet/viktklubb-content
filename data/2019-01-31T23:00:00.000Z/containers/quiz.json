@@ -1,0 +1,56 @@
+{
+  "props": {
+    "shadowBox": false,
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "quiz",
+      "order": "0",
+      "props": {
+        "header": "Vad är ditt mål?",
+        "lead": "Vad vill du göra för att förbättra din hälsa och må bättre? ",
+        "ctaLink": "/kampanj/blimedlem",
+        "bulletList": [
+          "Mer än 1000 hälsosamma recept",
+          "Experter inom mat, motion & motivation",
+          "Logga enkelt mat och träning i vår app"
+        ],
+        "itemsList": [
+          {
+            "header": "Äta hälsosammare",
+            "backgroundImage": "https://cdn-6-yams.schibsted.com/api/v1/production/images/18e41691e8304895c6562beb864ec5d08ebe2050?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjQ0NCwiaGVpZ2h0Ijo0NDUsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9fX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcLzE4ZTQxNjkxZTgzMDQ4OTVjNjU2MmJlYjg2NGVjNWQwOGViZTIwNTAifQ.JPEuqUPTVDRhNF8Yfx7BN7SVe71wkBXUgokiVu6AD6TK7loNuXytGXxj4swbM5eWZtIskfJ4TmLJrVjC2wdW-m5PtOYeGGo0eUhuWLjK-EMr5Kod4Df_H9FJsCPvTztSJ99DMlgvdbvhJPchU7Os5czy1dbgc8L6Q6Z04xlaR7JSemU-d1e_dwjpkvp9lag0c-DuRUeVGRUfIAEafWMbk3UyHI__5L-GnpfLfAHcwHeFfWjrqEJiiHHWRH79CKH-gQWcAezNxO87njBz7D7RZe2sEnK-n-4h0F3yV1suQpCzE4nQRR6hjAZzq7AnzaZ9Xc8e0NZLOtwRWWPX3EwfFw&AccessKeyId=d6f78ac930ac551d",
+            "details" : {
+              "header": "Viktklubb kan hjälpa dig att nå ditt mål att äta bättre!",
+              "lead": "Du får full koll på näringsinnehållet och färdiga menyer med hälsosamma recept"
+            }
+          },
+          {
+            "header": "Gå ner i vikt",
+            "backgroundImage": "https://cdn-0-yams.schibsted.com/api/v1/production/images/9e70633fa21a6c46ad5e963d3099150d0c36787e?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjQ0NCwiaGVpZ2h0Ijo0NDUsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9fX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcLzllNzA2MzNmYTIxYTZjNDZhZDVlOTYzZDMwOTkxNTBkMGMzNjc4N2UifQ.TWRowtSWIVkO4d3aqvob_BmoOrSZlw4VsF8tQW47Bi6WDcBRH2ACp2uJZtlfGsGoSpEHsTZu_ahwIVfq9wDG98qv1QxkhAtBH_taYIF1tyZZbRSirKJeLCFHBbgdhkChuKn2XNYTcibv3t_Zmzr7RZyEhBzBa7UALlQjHRRTlHO1jwvm2PetkHXtUnCHQbQmqJg5i6cSHSaePOqg4fL-lkN8InRw0dA70fajs1XURkc25OwI9Hs_StkRenbprBQAXB9wor6nb4PV6L0O4XM13sB63kGN7-FM6TfP7iRqDTjQ1XTpSAeAPQj6ZpL41lOMXFfFlNvC0qjChp3z_MxzaA&AccessKeyId=d6f78ac930ac551d",
+            "details" : {
+              "header": "Viktklubb kan hjälpa dig att nå ditt mål och gå ner i vikt!",
+              "lead": "Du får ett personligt viktminskningsprogram och följer enkelt dina framsteg i vår app"
+            }
+          },
+          {
+            "header": "Träna inför ett lopp",
+            "backgroundImage": "https://cdn-7-yams.schibsted.com/api/v1/production/images/8c5709eeea14800df017ad70c4f45f4a951841a0?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjM5OSwiaGVpZ2h0Ijo0NDUsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9fX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcLzhjNTcwOWVlZWExNDgwMGRmMDE3YWQ3MGM0ZjQ1ZjRhOTUxODQxYTAifQ.V2mswXARcTF1E13yFQ2_kUahGIqVtk_MN6x2pAxaNhgCh3XvtfsN72qSIHev_NH4Yvqw753jBu425TEUMDYl1lWyQqSrTmyCO4tRSjF1PCtH2VWPvhEJNrTT2sPnPnql5TwwejxsK7Ti58lMkHQrrvOksMH0gmQ2TKjunmHTkiukOXNfg_Nao2uVa0HMgHWeuZ3ixh1x6_2Skqq7yn71L0a5zURX_z_ByL3BFpUhYZ2_yYQFXgYTsM-wCY-hS14T0TTkl7xIy2NyH_ASZF-dlxCI5J9tI63qzyOKulM0BYpXavTp89d17sAIyjarHydtQ4ViGOosGr-Tp_g47bfSyQ&AccessKeyId=d6f78ac930ac551d",
+            "details" : {
+              "header": "Viktklubb kan hjälpa dig att nå ditt träningsmål!",
+              "lead": "Vi har en rad olika träningsprogram och ger dig en helhetsbild av både mat och träning"
+            }
+          },
+          {
+            "header": "Hålla vikten",
+            "backgroundImage": "https://cdn-1-yams.schibsted.com/api/v1/production/images/27fd424440bf05ce39241ea14d5e3078b15d835a?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjQ0NCwiaGVpZ2h0Ijo0NDUsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9fX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcLzI3ZmQ0MjQ0NDBiZjA1Y2UzOTI0MWVhMTRkNWUzMDc4YjE1ZDgzNWEifQ.JOaF6HjNGpaai6sf1gvCL199lDBLkvNnoND9MoRqbNw_EAvWTTS1bcKCWKyzKdS9L2ni86iULvrDPxQq9BQ4UCYnCfBeZuQfkFkHwk3XTNwQ3Q6bu9d6oGStENrqx8y7c1wlGpxdAN8XhlT5CMmW1J0FTDZu4xF0o2V6_SjKt6IMYUH4qFxX-jjnFkTcnQlkIl-CpeN31ewRVuXN0ncwnBz4Itfo_fm0hAqhC_scZO4W5I3W4YfWBxhujPeJQtA1M9poqYcq1_axGQsZ7ZjC4tzpXTVKeg7KOzkQDN9VOUUuLnIMZ1_m4i0vydTbERQhUo1acs6JC1ANQNsw3ScFcA&AccessKeyId=d6f78ac930ac551d",
+            "details" : {
+              "header": "Viktklubb kan hjälpa dig att hålla vikten genom hälsosam mat och total koll på ditt kaloriintag",
+              "lead": "Du får full koll på ditt kaloriintag utifrån ditt eget personliga energibehov"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

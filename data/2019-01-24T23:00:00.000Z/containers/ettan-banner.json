@@ -1,0 +1,47 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "backgroundImage": {
+          "desktop" : {
+            "source": "https://cdn-3-yams.schibsted.com/api/v1/production/images/b628663ac235da72ef338fcc81ad00ddb61711e4?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjMwMDAsImhlaWdodCI6MTAzNywiZml0Ijp7InR5cGUiOiJjcm9wIn0sInVwc2NhbGUiOmZhbHNlfX1dfX0sInJxcyI6IkdFVFxcXC9wcm9kdWN0aW9uXC9pbWFnZXNcL2I2Mjg2NjNhYzIzNWRhNzJlZjMzOGZjYzgxYWQwMGRkYjYxNzExZTQifQ.Ce7BROf2BoO91fUvn-Vbld9fS-Tq7lhfKTdhQ08mAxCGnZbcv5W4_PDFhuEqQ0Pjz2fm0v-IRihXfwVYe8ixgg9ZMDLM9P4qD8TqUR2nbd5AYnlCWFhZP234fcLqiLw-2dRNqS4NgzySKIqhKuuRtULGTl5zhWpNCBOscuX9p-a4WvJrEEi6gsBdXQivkYcAh9pTeTQ3OhSBiqgvpvLHNYcO9R1fRNPoB9CQ0kGpJCSmfCNSVJUlI4CLpU-XQQy5cuv7H_Q_BgpBYP9rp96cRe3nsAsJcUNDT1y3ZnSDlgd84NMDnf-hn751G-vZNk8OUWTkBF95z106JT25PClMiQ&AccessKeyId=d6f78ac930ac551d",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "tablet": {
+            "source": "https://cdn-4-yams.schibsted.com/api/v1/production/images/4ccd55b0a5db6046091eed763c0d0d9e870d8bd0?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjk5MCwiaGVpZ2h0Ijo0NzQsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC80Y2NkNTViMGE1ZGI2MDQ2MDkxZWVkNzYzYzBkMGQ5ZTg3MGQ4YmQwIn0.SAAlsWYXXuLfYSRFO_EN4RY6CFWKa3GC_5aLzFDgvjrflA9vp_qYVyqT3tR1S7lnvhpwcX-6YfJQX5McL3dpgLuE7OgjqDWRZUyVZaf-MCEN2hoVVHDRPPKrqHsjNgXCFqQN4vab5Nji5NQa6cORK9O92vJnaTxvR9UN4OrCIQsqGTIN3m6tOiDvTPc8ixNbi5mEpZfaLC9GQQy1gRZIB8ZJow3mvZhJ_RNvncVyZgkxE-4P9XToTHOOJHNfo6poidnX5z9EbxW5OF1_cj4CXB624RBHmujtiiAampqhEXaJO3rhTti0uLGr3xUILnDN5sdZpc8BQxNkgbmPfl4vbw&AccessKeyId=d6f78ac930ac551d",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "mobile": {
+            "source": "https://cdn-1-yams.schibsted.com/api/v1/production/images/c7f3781ddfa2ac4b5663e4efdb3dd894cb2be0b5?jwt=eyJhbGciOiJSUzI1NiJ9.eyJtZXRhZGF0YSI6eyJydWxlIjp7InF1YWxpdHkiOjgwLCJ2ZXJzaW9uIjoiMjAxNi0xMCIsImludGVycG9sYXRpb24iOiJsaW5lYXIiLCJhY3Rpb25zIjpbeyJyZXNpemUiOnsid2lkdGgiOjc2OCwiaGVpZ2h0Ijo2MzAsImZpdCI6eyJ0eXBlIjoiY3JvcCJ9LCJ1cHNjYWxlIjpmYWxzZX19XX19LCJycXMiOiJHRVRcXFwvcHJvZHVjdGlvblwvaW1hZ2VzXC9jN2YzNzgxZGRmYTJhYzRiNTY2M2U0ZWZkYjNkZDg5NGNiMmJlMGI1In0.CTquZNxyA1YX40fq4MvzzpAcO4hFIk3wIKJbio5AQrbhPb5O61MF_c4agivmn7ZYjRvv3uy--hldGrGHjTONv66mEFU4Ytzga862KZnim-JbnKqq6pgAKyBfEHgjeD4aGtJqetS1JSbYQCYkDnEzP85Afz5Ua1hMbTyWmSNuaC1DDRhx3biVR5gZRMIX9sT3Vsussmr5HLqCNpolhBNRbFdwA_iXE9Fs1AXj03sWOiJ-HbRMgaSpMIevTA1e1QPdKSh5kISNLgFyC5RTJfNOH1jiROVmz8lWDV8SHqFRGM6DwxV7tjIJNGRg9p3y1ZFaMIb7HRfMFYAdnrDfDwK_RA&AccessKeyId=d6f78ac930ac551d",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          }
+        },
+        "topOffset": 200,
+        "bulletList": [
+          "Vanlig, fräsch och nyttig mat",
+          "Stöd från experter och medlemmar",
+          "Loggboken håller koll på kalorierna"
+        ],
+        "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål",
+        "header": "Du kan äta allt... men inte alltid!",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": {
+          "desktop": "Bli medlem nu",
+          "tablet": "Bli medlem nu",
+          "mobile": "Bli medlem nu"
+        },
+        "ctaFootnote": "*Erbjudandet gäller vid tecknande av medlemskap på minst 6 månader och så långt lagret räcker, dock längst t.o.m. 28 februari 2019. Läs mer på <a href='http://bit.ly/villkormatvåg'>bit.ly/villkormatvåg</a>",
+        "body": "Nytt år och nya vanor – vi hjälper dig att nå dina mål. Kickstarta året med oss!",
+        "bodyEmphasizeTitle": "JUST NU!",
+        "bodyEmphasizeText": "Matvåg på köpet (värde 149 kr)*"
+      }
+    }
+  ]
+}

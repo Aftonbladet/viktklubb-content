@@ -1,0 +1,48 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "testimonials",
+      "order": 0,
+      "props": {
+        "users": [
+          {
+            "image": "sandra",
+            "title": "Sandra",
+            "tag": "-18 kg",
+            "body": "Jag läste om Viktklubbs 5:2-metod och den verkade funka för andra. Det gjorde den även för mig."
+          },
+          {
+            "image": "jennie",
+            "title": "Jennie",
+            "tag": "-36 kg",
+            "body": "Viktklubbs motto är att man kan äta allt, men inte alltid – och det har passat mig utmärkt!"
+          },
+          {
+            "image": "magnus",
+            "title": "Magnus",
+            "tag": "-38 kg",
+            "body": "Viktklubb handlar inte om att banta, det handlar om att lära sig äta rätt mängd."
+          },
+          {
+            "image": "niina",
+            "title": "Niina",
+            "tag": "-26 kg",
+            "body": "Jag kunde fortsätta att äta “allt” men gick ändå ner i vikt – med Viktklubbs hjälp."
+          }
+        ],
+        "header": {
+          "align": "center",
+          "label": "Vi har lyckats",
+          "cssClass": "section-header"
+        },
+        "ctaHref": "/magasin/lyckats",
+        "ctaLabel": "Läs om fler medlemmar"
+      }
+    }
+  ]
+}
