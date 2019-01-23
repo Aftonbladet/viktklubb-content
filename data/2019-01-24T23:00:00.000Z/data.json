@@ -31,7 +31,7 @@
       },
       "special-offer": {
         "months": 6,
-        "price": "74,50",
+        "price": 74.5,
         "unit": "månad",
         "productId": "203216",
         "campaignId": "11891",
