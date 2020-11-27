@@ -1,0 +1,26 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false,
+    "grid": false
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Ett samarbete med Karolinska Institutet",
+        "strength": 2,
+        "align": "center"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": "1",
+      "props": {
+        "text": "Wellobe utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över en halv miljon medlemmar att skaffa en hälsosammare livsstil och gå ner i vikt. Du kan räkna med oss!"
+      }
+    }
+  ]
+}

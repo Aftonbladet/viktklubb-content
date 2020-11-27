@@ -1,0 +1,58 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "contentPadding": true,
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": "0",
+      "props": {
+        "label": "Räkna ut när du kan nå din målvikt",
+        "strength": 2,
+        "align": "center",
+        "cssClass": "section-header"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": "1",
+      "props": {
+        "text": "Fyll i din vikt, längd och målvikt så får du veta ditt BMI och vilket datum du kan vara i mål."
+      }
+    },
+    {
+      "type": "bmi-calc",
+      "order": "2",
+      "props": {
+        "weight": {
+          "value": 100,
+          "maxValue": 200,
+          "minValue": 50,
+          "cutoffValue": 110
+        },
+        "height": {
+          "value": 170,
+          "maxValue": 240,
+          "minValue": 110,
+          "cutoffValue": 210
+        },
+        "goal": {
+          "value": 90,
+          "maxValue": 200,
+          "minValue": 50,
+          "cutoffValue": 110
+        },
+        "userQuote": "Jag trodde inte det skulle gå så lätt, man kan faktiskt äta mer än man tror",
+        "userName": "Madeleine Nylander, medlem -20kg",
+        "disclaimer": "*Viktminskning är individuellt och vi kan därför inte lämna några garantier för hur mycket eller hur snabbt du kommer gå ner i vikt. För att bli medlem i Wellobe får du inte ha ett BMI under 20.",
+        "bmiWarning": "*För att gå med i Wellobe måste du ha ett BMI på minst 20. Ett rekommenderat BMI ligger mellan 20-25.",
+        "gainWarning": "*Wellobes program är framtagna för dig som behöver gå ner eller hålla vikten. Om du tränar hårt och satsar på att öka din muskelmassa mycket snarare än att omfördela fett och muskler, eller om du bara vill gå upp lite i vikt, är Wellobe troligen inte rätt verktyg för dig i dagsläget.",
+        "cta": "Jag vill nå mitt mål!",
+        "ctaUrl": "/kampanj/blimedlem"
+      }
+    }
+  ]
+}
