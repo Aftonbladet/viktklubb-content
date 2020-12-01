@@ -1,0 +1,48 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "testimonials",
+      "order": 0,
+      "props": {
+        "users": [
+          {
+            "image": "carolina",
+            "title": "Carolina",
+            "tag": "-16 kg",
+            "body": "Innan jagade jag siffror på vågen. Idag är bättre sömn och mindre värk mina största vinster. Jag mår strålande!"
+          },
+          {
+            "image": "peter",
+            "title": "Peter",
+            "tag": "-31 kg",
+            "body": "Jag har fått blodtryck som en 15-åring, bättre sömn, humör – och trivs framför spegeln. Jag kommer aldrig gå tillbaka!"
+          },
+          {
+            "image": "ingela",
+            "title": "Ingela",
+            "tag": "-21 kg",
+            "body": "Jag behövde skapa en bra balans mellan min mat och motion. När jag väl började äta mer och träna mindre kom resultaten"
+          },
+          {
+            "image": "ulf",
+            "title": "Ulf",
+            "tag": "-42 kg",
+            "body": "Jag höll mig till min kaloriplan och tränade en halvtimme om dagen. Wellobe har räddat mitt liv. Frun och barnen är helt tagna."
+          }
+        ],
+        "header": {
+          "align": "center",
+          "label": "Vi har lyckats",
+          "cssClass": "section-header"
+        },
+        "ctaHref": "/magasin/lyckats",
+        "ctaLabel": "Läs om fler medlemmar"
+      }
+    }
+  ]
+}
