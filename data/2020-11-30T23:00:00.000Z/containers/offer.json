@@ -11,7 +11,7 @@
       "type": "header",
       "order": "0",
       "props": {
-        "label": "Bli medlem från 179 kr/månad",
+        "label": "Nå din målvikt med oss",
         "sublabel": "",
         "strength": 1,
         "align": "center"
@@ -21,7 +21,7 @@
       "type": "cta-element",
       "order": "1",
       "props": {
-        "label": "Bli medlem"
+        "label": "Bli medlem idag"
       }
     }
   ]
