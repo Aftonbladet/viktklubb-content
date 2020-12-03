@@ -40,7 +40,7 @@
           "label": "Vi har lyckats",
           "cssClass": "section-header"
         },
-        "ctaHref": "/magasin/lyckats",
+        "ctaHref": "/blimedlem/medlemscase",
         "ctaLabel": "Läs om fler medlemmar"
       }
     }
