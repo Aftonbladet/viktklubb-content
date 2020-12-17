@@ -1,0 +1,36 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false,
+    "grid": false,
+    "background": "gray3"
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "props": {
+        "label": "Ett lättare liv med Wellobe!",
+        "strength": 2,
+        "align": "center"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": "1",
+      "props": {
+        "text": "Gör som över 500 000 andra redan har gjort – gå med i Wellobe så hjälper vi dig att gå ner i vikt och leva hälsosamt."
+      }
+    },
+    {
+      "type": "cta-element",
+      "order": "2",
+      "props": {
+        "label": "Bli medlem",
+        "href": "/kampanj/blimedlem"
+      }
+    }
+
+  ]
+}
