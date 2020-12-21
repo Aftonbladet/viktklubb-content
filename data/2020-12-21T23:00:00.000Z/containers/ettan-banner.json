@@ -1,0 +1,51 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "backgroundImage": {
+          "desktop" : {
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/6d/6dd1d740-5f5b-4aa4-b347-bc453a0bbe43?rule=original",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "tablet": {
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/cd/cdbc53d7-9397-4135-b78c-416f1cb6fc43?rule=original",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "mobile": {
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/0c/0c1fcc90-5c57-46cf-bfc3-629cbcfe18f7?rule=original",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          }
+        },
+        "topOffset": 200,
+        "bulletList": [
+          "Vanlig, fräsch och nyttig mat",
+          "Stöd från experter och medlemmar",
+          "Loggboken håller koll på kalorierna"
+        ],
+        "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål",
+        "header": "Nå din målvikt med oss!",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": {
+          "desktop": "Börja idag",
+          "tablet": "Börja idag",
+          "mobile": "Börja idag"
+        },
+        "ctaFootnote": "*Erbjudandet gäller t.o.m. 24 januari 2021.",
+        "body": "Du får loggbok, kaloriberäknade recept och träningsprogram",
+        "bodyEmphasizeTitle": "JUST NU:",
+        "bodyEmphasizeText": "En månad på köpet!*",
+        "topNoteText": "",
+        "topNoteLink": "",
+        "topNoteLinkText": "",
+        "feedDesc": ""
+      }
+    }
+  ]
+}

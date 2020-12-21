@@ -1,0 +1,103 @@
+{
+  "payment": {
+    "externalHost": "https://login.aftonbladet.se",
+    "path": "purchase",
+    "productQuery": "product_id",
+    "campaignQuery": "campaign_id",
+    "offers": {
+      "three-months-monthly": {
+        "months": 3,
+        "price": 279,
+        "unit": "månad",
+        "productId": "203215",
+        "campaignId": "11891",
+        "zuoraId": "W-1MF-3MT-E-20"
+      },
+      "six-months-monthly": {
+        "months": 6,
+        "price": 199,
+        "unit": "månad",
+        "productId": "203216",
+        "campaignId": "11690",
+        "zuoraId": ""
+      },
+      "twelve-months-monthly": {
+        "months": 12,
+        "price": 199,
+        "unit": "månad",
+        "productId": "203274",
+        "campaignId": "11891",
+        "zuoraId": "W-1MF-12MT-E-20"
+      },
+      "special-offer": {
+        "months": 6,
+        "price": 229,
+        "unit": "månad",
+        "productId": "203216",
+        "campaignId": "11891",
+        "offerLength": 6,
+        "lengthUnit": "månader",
+        "zuoraId": "W-1MF-6MT-E-20"
+      }
+    }
+  },
+  "pages": {
+    "frontpage": {
+      "containers": [
+        "ettan-banner",
+        "vk-features",
+        "bmi-calc",
+        "karolinska",
+        "campaign-bar"
+      ]
+    },
+    "vk-content": {
+      "containers": [
+        "intro-box",
+        "testimonials",
+        "experts"
+      ]
+    },
+    "bmi": {
+      "containers": [
+        "bmi-calc",
+        "vk-features"
+      ]
+    },
+
+    "article-top-ad": {
+      "containers": [
+      ]
+    },
+    "article-bottom-ad": {
+      "containers": [
+        "bmi-calc"
+      ]
+    },
+    "article-bmi": {
+      "containers": [
+        "bmi-calc"
+      ]
+    },
+    "article-test": {
+      "containers": [
+        "quiz"
+      ]
+    },
+    "article-pitch": {
+      "containers": [
+        "pitch"
+      ]
+    },
+    "article-offer": {
+      "containers": [
+        "offer"
+      ]
+    },
+    "memberships": {
+      "containers": [
+        "memberships"
+      ]
+    }
+  }
+}
