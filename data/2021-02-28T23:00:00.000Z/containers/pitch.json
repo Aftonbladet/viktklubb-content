@@ -4,31 +4,33 @@
     "width": "full",
     "margin": false,
     "grid": false,
-    "background": "primary1"
+    "background": "gray3"
   },
   "items": [
     {
       "type": "header",
       "order": 0,
       "props": {
-        "label": "Från 179 kr/månad",
+        "label": "Ett lättare liv med Wellobe!",
         "strength": 2,
         "align": "center"
       }
     },
     {
-      "type": "cta-element",
+      "type": "paragraf",
       "order": "1",
       "props": {
-        "label": "Bli medlem"
+        "text": "Gör som över 500 000 andra redan har gjort – gå med i Wellobe så hjälper vi dig att gå ner i vikt och leva hälsosamt."
       }
     },
     {
-      "type": "paragraf",
+      "type": "cta-element",
       "order": "2",
       "props": {
-        "text": "JUST NU: En månad på köpet!*"
+        "label": "Bli medlem",
+        "href": "/kampanj/blimedlem"
       }
     }
+
   ]
 }
