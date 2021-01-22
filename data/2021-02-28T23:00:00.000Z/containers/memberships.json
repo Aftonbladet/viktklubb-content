@@ -21,16 +21,9 @@
       "order": 1,
       "props": {
         "special": {
-          "sticker": "Erbjudande!",
+          "sticker": "Populärast!",
           "cta": "Välj",
-          "offer": "special-offer",
-          "additionalOffer": {
-            "backgroundImage": {
-              "small": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/e3/e30644eb-e1d2-405e-b634-e61fda40106f?rule=original",
-              "large": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/47/4737bbff-10e8-4aaa-beb1-e44326a1cc01?rule=original"
-            },
-            "label": "JUST NU: 50% rabatt*"
-          }
+          "offer": "special-offer"
         },
         "monthly": [
           {
@@ -78,7 +71,7 @@
       "type": "htmlParagraf",
       "order": 5,
       "props": {
-        "text": "*Erbjudandet gäller vid tecknande av 6 månaders medlemskap t.o.m. 31 januari 2021. 6 månader för endast 99 kr/månad (ord. pris 199 kr/månad).",
+        "text": "",
         "cssClass": "memberships__offer-disclaimer"
       }
     }
