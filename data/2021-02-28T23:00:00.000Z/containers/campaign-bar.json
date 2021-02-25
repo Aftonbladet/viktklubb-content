@@ -20,14 +20,14 @@
       "type": "cta-element",
       "order": "1",
       "props": {
-        "label": "Bli medlem"
+        "label": "Börja idag"
       }
     },
     {
       "type": "paragraf",
       "order": "2",
       "props": {
-        "text": ""
+        "text": "Bli medlem från 179 kr/månad"
       }
     }
   ]
