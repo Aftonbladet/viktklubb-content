@@ -7,7 +7,7 @@
     "offers": {
       "three-months-monthly": {
         "months": 3,
-        "price": 279,
+        "price": 249,
         "unit": "månad",
         "productId": "203215",
         "campaignId": "11891",
@@ -23,7 +23,7 @@
       },
       "twelve-months-monthly": {
         "months": 12,
-        "price": 199,
+        "price": 179,
         "unit": "månad",
         "productId": "203274",
         "campaignId": "11891",
@@ -31,7 +31,7 @@
       },
       "special-offer": {
         "months": 6,
-        "price": 229,
+        "price": 199,
         "unit": "månad",
         "productId": "203216",
         "campaignId": "11891",
