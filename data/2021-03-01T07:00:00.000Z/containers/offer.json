@@ -1,0 +1,28 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false,
+    "grid": false,
+    "background": "gray3"
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": "0",
+      "props": {
+        "label": "Nå din målvikt med oss",
+        "sublabel": "",
+        "strength": 1,
+        "align": "center"
+      }
+    },
+    {
+      "type": "cta-element",
+      "order": "1",
+      "props": {
+        "label": "Bli medlem idag"
+      }
+    }
+  ]
+}
