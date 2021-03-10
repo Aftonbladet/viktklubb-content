@@ -6,12 +6,12 @@
     "campaignQuery": "campaign_id",
     "offers": {
       "three-months-monthly": {
-        "months": 3,
-        "price": 249,
+        "months": 6,
+        "price": 199,
         "unit": "månad",
         "productId": "203215",
         "campaignId": "11891",
-        "zuoraId": "W-1MF-3MT-E-20"
+        "zuoraId": "VK-6MT-E-20"
       },
       "six-months-monthly": {
         "months": 6,
@@ -30,14 +30,14 @@
         "zuoraId": "W-1MF-12MT-E-20"
       },
       "special-offer": {
-        "months": 6,
-        "price": 199,
+        "months": 3,
+        "price": 124,
         "unit": "månad",
         "productId": "203216",
         "campaignId": "11891",
-        "offerLength": 6,
+        "offerLength": 3,
         "lengthUnit": "månader",
-        "zuoraId": "W-1MF-6MT-E-20"
+        "zuoraId": "W-3MT50-E-20"
       }
     }
   },
