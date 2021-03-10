@@ -1,0 +1,39 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "experts",
+      "order": 0,
+      "props": {
+        "experts": [
+          {
+            "image": "josefine",
+            "title": "Josefine",
+            "tag": "Leg. dietist",
+            "body": "Josefine Jonasson är legitimerad dietist och har varit med sedan Wellobe startade 2003. På Wellobe hjälper hon dig med tips och inspiration när det gäller kosten. Allt från portionsstorlekar till socker och fett."
+          },
+          {
+            "image": "marten",
+            "tag": "Personlig tränare",
+            "title": "Mårten",
+            "body": "Mårten Nylén har under flera år hjälpt och inspirerat människor att komma i form och gå ner i vikt. På Wellobe hittar du bl.a. Mårtens träningsprogram ”Smart träning”, individanpassad träning som funkar för alla."
+          },
+          {
+            "image": "leila",
+            "title": "Leila",
+            "tag": "Träningsexpert",
+              "body": "Leila Söderholm har jobbat med träning, kost och hälsa i över 20 år. På Wellobe bidrar Leila med mängder av tips, råd och inspiration. Med smarta knep och övningar hjälper hon dig att få in träning på ett enkelt sätt i vardagen."
+          }
+        ],
+        "header": {
+          "align": "center",
+          "label": "Vi hjälper dig nå dina mål!"
+        }
+      }
+    }
+  ]
+}
