@@ -1,0 +1,37 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false,
+    "grid": false
+  },
+  "items": [
+    {
+      "type": "vk-features",
+      "order": 0,
+      "props": {
+        "header": {
+          "align": "center",
+          "label": "",
+          "cssClass": "section-header"
+        },
+        "features": [
+          {
+            "title": "Ställ in din målvikt och i vilken takt du vill gå ner",
+            "body": "Välj vilket program du vill följa, klassiskt eller 5:2."
+          },
+          {
+            "title": "Fyll i det du äter och få koll på kalorierna",
+            "body": "Inspireras av tusentals kaloriberäknade recept. Logga enkelt från mobil och dator."
+          },
+          {
+            "title": "Följ dina framgångar – vecka för vecka",
+            "body": "Hitta motivationen i dina framsteg!"
+          }
+        ],
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": "Bli medlem"
+      }
+    }
+  ]
+}

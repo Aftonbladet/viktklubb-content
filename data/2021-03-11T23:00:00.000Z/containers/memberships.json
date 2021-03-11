@@ -1,0 +1,86 @@
+{
+  "props": {
+    "shadowBox": false,
+    "margin": false,
+    "grid": false,
+    "contentPadding": false
+  },
+  "items": [
+    {
+      "type": "header",
+      "order": 0,
+      "strength": 1,
+      "props": {
+        "label": "Vi hjälper dig att gå ner i vikt",
+        "sublabel": "",
+        "cssClass": "memberships__header"
+      }
+    },
+    {
+      "type": "special-offering",
+      "order": 1,
+      "props": {
+        "special": {
+          "sticker": "Erbjudande!",
+          "cta": "Välj",
+          "offer": "special-offer",
+          "additionalOffer": {
+            "backgroundImage": {
+              "small": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/e3/e30644eb-e1d2-405e-b634-e61fda40106f?rule=original",
+              "large": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/47/4737bbff-10e8-4aaa-beb1-e44326a1cc01?rule=original"
+            },
+            "label": "JUST NU: 50% rabatt*"
+          }
+        },
+        "monthly": [
+          {
+            "sticker": "Populärast!",
+            "cta": "Välj",
+            "offer": "three-months-monthly"
+          },
+          {
+            "sticker": "Billigast!",
+            "cta": "Välj",
+            "offer": "twelve-months-monthly"
+          }
+        ],
+        "additionalDisclaimer": {
+          "title": "",
+          "desc": ""
+        }
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": 2,
+      "props": {
+        "text": "Visste du att Wellobe täcks av friskvårdsbidraget?",
+        "cssClass": "memberships__health-benefit"
+      }
+    },
+    {
+      "type": "header",
+      "order": 3,
+      "props": {
+        "label": "Ett samarbete med Karolinska Institutet",
+        "cssClass": "memberships__karolinska-header"
+      }
+    },
+    {
+      "type": "paragraf",
+      "order": 4,
+      "props": {
+        "text": "Wellobe utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över 500 000 medlemmar att gå ner i vikt och skaffa en hälsosammare livsstil.",
+        "cssClass": "memberships__karolinska-paragraph"
+      }
+    },
+    {
+      "type": "htmlParagraf",
+      "order": 5,
+      "props": {
+        "text": "*Erbjudandet gäller vid tecknande av 3 månaders medlemskap t.o.m. 14 mars 2021. 3 månader för endast 124 kr/månad (ord. pris 249 kr/månad).",
+        "cssClass": "memberships__offer-disclaimer"
+      }
+    }
+  ]
+}
