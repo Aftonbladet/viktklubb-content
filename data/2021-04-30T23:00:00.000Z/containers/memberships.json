@@ -11,7 +11,7 @@
       "order": 0,
       "strength": 1,
       "props": {
-        "label": "Vi hjälper dig att gå ner i vikt!",
+        "label": "Vi hjälper dig att gå ner i vikt",
         "sublabel": "",
         "cssClass": "memberships__header"
       }
