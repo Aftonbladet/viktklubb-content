@@ -11,15 +11,15 @@
       "props": {
         "backgroundImage": {
           "desktop" : {
-            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/7b/7bef1072-8916-42c2-920c-272c606d7fa5?rule=original",
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/10/10e2ac15-df14-4b1f-b0bf-fe50f67d6da6?rule=original",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "tablet": {
-            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/5a/5a6e790d-022d-4e73-b2c8-62d6bfbc8c43?rule=original",
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/bc/bce8bcc6-828c-4402-bf4d-7a704980b83a?rule=original",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "mobile": {
-            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/4e/4ee42fbc-c1ae-4a12-bfe2-ed87b03ed4ae?rule=original",
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/eb/eb292ba4-76e2-430b-a5f4-2de8f2d0d46e?rule=original",
             "alt": "Gå ner i vikt snabbt och enkelt"
           }
         },
@@ -37,10 +37,10 @@
           "tablet": "Börja idag",
           "mobile": "Börja idag"
         },
-        "ctaFootnote": "",
+        "ctaFootnote": "*Erbjudandet gäller vid tecknande av 6 månaders medlemskap t.o.m. 7 april 2021.",
         "body": "",
-        "bodyEmphasizeTitle": "",
-        "bodyEmphasizeText": "Du får loggbok, kaloriberäknade recept och träningsprogram",
+        "bodyEmphasizeTitle": "JUST NU:",
+        "bodyEmphasizeText": "50% rabatt*",
         "topNoteText": "",
         "topNoteLink": "",
         "topNoteLinkText": "",
