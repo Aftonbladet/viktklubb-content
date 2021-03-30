@@ -1,0 +1,51 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "backgroundImage": {
+          "desktop" : {
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/10/10e2ac15-df14-4b1f-b0bf-fe50f67d6da6?rule=original",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "tablet": {
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/bc/bce8bcc6-828c-4402-bf4d-7a704980b83a?rule=original",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "mobile": {
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/eb/eb292ba4-76e2-430b-a5f4-2de8f2d0d46e?rule=original",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          }
+        },
+        "topOffset": 200,
+        "bulletList": [
+          "Vanlig, fräsch och nyttig mat",
+          "Stöd från experter och medlemmar",
+          "Loggboken håller koll på kalorierna"
+        ],
+        "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål",
+        "header": "Nå din målvikt med oss!",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": {
+          "desktop": "Börja idag",
+          "tablet": "Börja idag",
+          "mobile": "Börja idag"
+        },
+        "ctaFootnote": "*Erbjudandet gäller vid tecknande av 6 månaders medlemskap t.o.m. 7 april 2021.",
+        "body": "Du får loggbok, kaloriberäknade recept och träningsprogram",
+        "bodyEmphasizeTitle": "JUST NU:",
+        "bodyEmphasizeText": "50% rabatt*",
+        "topNoteText": "",
+        "topNoteLink": "",
+        "topNoteLinkText": "",
+        "feedDesc": ""
+      }
+    }
+  ]
+}
