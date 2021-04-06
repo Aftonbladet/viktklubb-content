@@ -23,14 +23,7 @@
         "special": {
           "sticker": "Populärast!",
           "cta": "Välj",
-          "offer": "special-offer",
-          "additionalOffer": {
-            "backgroundImage": {
-              "small": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/e3/e30644eb-e1d2-405e-b634-e61fda40106f?rule=original",
-              "large": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/47/4737bbff-10e8-4aaa-beb1-e44326a1cc01?rule=original"
-            },
-            "label": ""
-          }
+          "offer": "special-offer"
         },
         "monthly": [
           {
