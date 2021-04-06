@@ -11,15 +11,15 @@
       "props": {
         "backgroundImage": {
           "desktop" : {
-            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/10/10e2ac15-df14-4b1f-b0bf-fe50f67d6da6?rule=original",
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/c2/c22ff255-9f2d-4ab5-927b-b842d6fa2a11?rule=original",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "tablet": {
-            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/bc/bce8bcc6-828c-4402-bf4d-7a704980b83a?rule=original",
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/30/306f7d2d-282b-409a-bf8f-7cf434cd581a?rule=original",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "mobile": {
-            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/eb/eb292ba4-76e2-430b-a5f4-2de8f2d0d46e?rule=original",
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/0f/0f78bc6a-7764-46b5-9882-995bed08a4c6?rule=original",
             "alt": "Gå ner i vikt snabbt och enkelt"
           }
         },
