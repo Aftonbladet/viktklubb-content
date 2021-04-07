@@ -11,15 +11,15 @@
       "props": {
         "backgroundImage": {
           "desktop" : {
-            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/07/0750d7a4-943d-4e9d-a6b8-e17393f0c8ad?rule=original",
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/3f/3fa48a24-4ba1-44ea-ba88-df55a9b81fe5?rule=original",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "tablet": {
-            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/5a/5a3993b7-737a-4a68-9d65-140eb1a0c32a?rule=original",
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/4b/4bd22e7f-0fcb-4783-a562-269727090ca5?rule=original",
             "alt": "Gå ner i vikt snabbt och enkelt"
           },
           "mobile": {
-            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/72/726e873d-a7e4-4b9a-9c41-ee8895e29157?rule=original",
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/d0/d0385ed2-66b9-4c18-9504-704c44fd7201?rule=original",
             "alt": "Gå ner i vikt snabbt och enkelt"
           }
         },
@@ -30,7 +30,7 @@
           "Loggboken håller koll på kalorierna"
         ],
         "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål",
-        "header": "Nå din målvikt med oss",
+        "header": "Nå din målvikt med oss!",
         "ctaHref": "/kampanj/blimedlem",
         "ctaLabel": {
           "desktop": "Börja idag",
@@ -38,9 +38,9 @@
           "mobile": "Börja idag"
         },
         "ctaFootnote": "",
-        "body": "",
+        "body": "Du får loggbok, kaloriberäknade recept och träningsprogram",
         "bodyEmphasizeTitle": "",
-        "bodyEmphasizeText": "Du får loggbok, träningsprogram och kaloriberäknade recept",
+        "bodyEmphasizeText": "",
         "topNoteText": "",
         "topNoteLink": "",
         "topNoteLinkText": "",
