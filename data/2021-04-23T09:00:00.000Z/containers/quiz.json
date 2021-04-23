@@ -1,0 +1,56 @@
+{
+  "props": {
+    "shadowBox": false,
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "quiz",
+      "order": "0",
+      "props": {
+        "header": "Vad är ditt mål?",
+        "lead": "Vad vill du göra för att förbättra din hälsa och må bättre? ",
+        "ctaLink": "/kampanj/blimedlem",
+        "bulletList": [
+          "Mer än 1000 hälsosamma recept",
+          "Experter inom mat, motion & motivation",
+          "Logga enkelt mat och träning i vår app"
+        ],
+        "itemsList": [
+          {
+            "header": "Äta hälsosammare",
+            "backgroundImage": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/50/50942ed0-005d-441d-af0e-03bd7aa9c7eb?rule=original",
+            "details" : {
+              "header": "Wellobe kan hjälpa dig att nå ditt mål att äta bättre!",
+              "lead": "Du får full koll på näringsinnehållet och färdiga menyer med hälsosamma recept"
+            }
+          },
+          {
+            "header": "Gå ner i vikt",
+            "backgroundImage": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/45/45bc1193-3384-40ed-be11-a714ebd50bc3?rule=original",
+            "details" : {
+              "header": "Wellobe kan hjälpa dig att nå ditt mål och gå ner i vikt!",
+              "lead": "Du får ett personligt viktminskningsprogram och följer enkelt dina framsteg i vår app"
+            }
+          },
+          {
+            "header": "Träna inför ett lopp",
+            "backgroundImage": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/22/22b0400d-df02-40b9-a56c-e3df44b4f9ff?rule=original",
+            "details" : {
+              "header": "Wellobe kan hjälpa dig att nå ditt träningsmål!",
+              "lead": "Vi har en rad olika träningsprogram och ger dig en helhetsbild av både mat och träning"
+            }
+          },
+          {
+            "header": "Hålla vikten",
+            "backgroundImage": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/e7/e7d6b0b0-79f3-4bf1-8ca4-05f8f2c2b234?rule=original",
+            "details" : {
+              "header": "Wellobe kan hjälpa dig att hålla vikten genom hälsosam mat och total koll på ditt kaloriintag",
+              "lead": "Du får full koll på ditt kaloriintag utifrån ditt eget personliga energibehov"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
