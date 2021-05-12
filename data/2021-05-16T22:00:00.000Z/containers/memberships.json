@@ -23,18 +23,39 @@
         "special": {
           "sticker": "Populärast!",
           "cta": "Välj",
-          "offer": "special-offer"
+          "offer": "special-offer",
+          "additionalOffer": {
+            "backgroundImage": {
+              "small": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/e3/e30644eb-e1d2-405e-b634-e61fda40106f?rule=original",
+              "large": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/47/4737bbff-10e8-4aaa-beb1-e44326a1cc01?rule=original"
+            },
+            "label": "JUST NU: En månad på köpet!*"
+          }
         },
         "monthly": [
           {
             "sticker": "Kickstart!",
             "cta": "Välj",
-            "offer": "three-months-monthly"
+            "offer": "three-months-monthly",
+            "additionalOffer": {
+              "backgroundImage": {
+                "small": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/e3/e30644eb-e1d2-405e-b634-e61fda40106f?rule=original",
+                "large": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/47/4737bbff-10e8-4aaa-beb1-e44326a1cc01?rule=original"
+              },
+              "label": "JUST NU: En månad på köpet!*"
+            }
           },
           {
             "sticker": "Billigast!",
             "cta": "Välj",
-            "offer": "twelve-months-monthly"
+            "offer": "twelve-months-monthly",
+            "additionalOffer": {
+              "backgroundImage": {
+                "small": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/e3/e30644eb-e1d2-405e-b634-e61fda40106f?rule=original",
+                "large": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/47/4737bbff-10e8-4aaa-beb1-e44326a1cc01?rule=original"
+              },
+              "label": "JUST NU: En månad på köpet!*"
+            }
           }
         ],
         "additionalDisclaimer": {
@@ -71,7 +92,7 @@
       "type": "htmlParagraf",
       "order": 5,
       "props": {
-        "text": "",
+        "text": "*Erbjudandet gäller t.o.m. 13 juni 2021. Med detta erbjudande får du en extra månad på köpet. Första månaden betalar du enligt prisplan för valt medlemskap, därefter får du en extra månad kostnadsfritt. Efter det löper medlemskapet på till normalpris i ytterligare 2, 5 eller 11 månader – beroende på vilken medlemskapslängd du valt.",
         "cssClass": "memberships__offer-disclaimer"
       }
     }
