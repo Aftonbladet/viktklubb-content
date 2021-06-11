@@ -1,0 +1,22 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": true
+  },
+  "items": [
+    {
+      "type": "intro",
+      "order": 0,
+      "props": {
+        "header": "Vi tror på enkel matematik: Kalorier in - Kalorier ut",
+        "body": "Wellobe utvecklades 2003 i samarbete med Karolinska Institutet. Sedan starten har vi hjälpt över en halv miljon medlemmar att skaffa en hälsosammare livsstil och gå ner i vikt. Du kan räkna med oss! ",
+        "items": [
+          "Full kontroll på ditt dagliga kaloriintag – logga via mobil, dator eller surfplatta!",
+          "Personlig kostplan och tusentals kaloriberäknade recept. Lika goda som nyttiga!",
+          "Ta hjälp av våra duktiga experter inom mat, motion och motivation!"
+        ]
+      }
+    }
+  ]
+}

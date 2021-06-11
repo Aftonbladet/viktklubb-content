@@ -1,0 +1,51 @@
+{
+  "props": {
+    "shadowBox": false,
+    "width": "full",
+    "margin": false
+  },
+  "items": [
+    {
+      "type": "standard-banner-v2",
+      "order": "1",
+      "props": {
+        "backgroundImage": {
+          "desktop" : {
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/b2/b2f3332c-98a3-4519-9354-beb4d15cb33a?rule=original",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "tablet": {
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/e0/e0ec87d1-a0e8-4482-9c16-1cfa22d57656?rule=original",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          },
+          "mobile": {
+            "source": "https://cdn.ship.schibsted.io/api/v1/ship-static/images/4f/4fe59812-a835-460f-8a99-0ad867f7a948?rule=original",
+            "alt": "Gå ner i vikt snabbt och enkelt"
+          }
+        },
+        "topOffset": 200,
+        "bulletList": [
+          "Vanlig, fräsch och nyttig mat",
+          "Stöd från experter och medlemmar",
+          "Loggboken håller koll på kalorierna"
+        ],
+        "bulletListHeader": "Ett personligt viktminskningsprogram skapat utifrån dina förutsättningar och mål",
+        "header": "Behåll dina goda vanor i sommar!",
+        "ctaHref": "/kampanj/blimedlem",
+        "ctaLabel": {
+          "desktop": "Börja idag",
+          "tablet": "Börja idag",
+          "mobile": "Börja idag"
+        },
+        "ctaFootnote": "",
+        "body": "Du får loggbok, kaloriberäknade recept och träningsprogram",
+        "bodyEmphasizeTitle": "",
+        "bodyEmphasizeText": "",
+        "topNoteText": "",
+        "topNoteLink": "",
+        "topNoteLinkText": "",
+        "feedDesc": ""
+      }
+    }
+  ]
+}
